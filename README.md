@@ -25,7 +25,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/rojasarmando/portafolio">
-    <img src="images/img.png" alt="Logo" height="100">
+    <img src="https://blog.codewithdan.com/wp-content/uploads/2017/02/HelloWorld_thumb-1.png" alt="Logo" height="100">
   </a>
 
   <h3 align="center">My Portfolio</h3>
